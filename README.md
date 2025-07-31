@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on System Engineer at @AzingElectronics and worked on tech arsenals like C, Linux, python, C++, C#,lua, matlab 
+I am currently working on System Engineer at @AzingElectronics and worked on tech arsenals like C, Linux, python, C++, C#, lua, Matlab, dSPACE, CANalyzer. 
 
 
 ## 🌐 Socials:
