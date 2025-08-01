@@ -2,6 +2,10 @@
 I am currently working on System Engineer at @AzingElectronics and worked on tech arsenals like C, Linux, python, C++, C#, lua, Matlab, dSPACE, CANalyzer. 
 
 
+<div align = "center">
+	
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajpadgaonkar/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/PadgaonkarrRaj) 
 
